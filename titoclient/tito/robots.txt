@@ -1,0 +1,1 @@
+This is the client side of tito social media app
